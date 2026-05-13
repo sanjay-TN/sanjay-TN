@@ -1,7 +1,8 @@
 ![logo](https://github.com/sanjay-TN/sanjay-TN/blob/main/github.jpg)
 <h1 align="center">Hi 👋, I'm Sanjay T N</h1>
 <h3 align="center">MCA Student|☕ Building scalable apps with Java, Spring Boot & MySQL</h3>
-<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/> 
+
+<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-tn&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-tn" /> </p>
 
@@ -41,10 +42,18 @@
 <br />
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay-tn&show_icons=true&locale=en&layout=compact" alt="sanjay-tn" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-TN&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+  />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay-tn&show_icons=true&locale=en" alt="sanjay-tn" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sanjay-TN&show_icons=true&theme=tokyonight" 
+    alt="GitHub Stats" 
+  />
+</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjay-tn&theme=radical" alt="sanjay-tn" />
